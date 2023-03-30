@@ -1,2 +1,3 @@
-def myfunction(x):
+def myfunctio(x):
     return x**2
+    
